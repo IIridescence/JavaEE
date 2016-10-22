@@ -1,7 +1,0 @@
-");
-out.println("
-out.println(
-//
-" +File.separator +File.separator +"
-"
-\"
